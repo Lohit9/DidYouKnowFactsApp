@@ -4,5 +4,5 @@ This is an "fun-facts" application which generates facts everyday, enlighten you
 
 This application is built using core concepts such as views and view controllers, creating a data model, and the Model-View-Controller design pattern.
 
-More features coming soon!!
+More features coming soon(Will add more facts resources)!
 
